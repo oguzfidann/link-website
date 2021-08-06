@@ -1,0 +1,15 @@
+.text {
+    display: none;
+}
+
+.big-link {
+    grid-column: span 2;
+}
+
+.footer {
+    margin-top:1rem;
+}
+
+.logo-bar img {
+    max-width: 55px;
+}
